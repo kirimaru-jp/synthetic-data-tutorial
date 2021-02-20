@@ -585,3 +585,4 @@ If you have any queries, comments or improvements about this tutorial please do 
 - The real promise of synthetic data - [Synthetic Data Vault](https://news.mit.edu/2020/real-promise-synthetic-data-1016)
 - [Synthetic data for open and reproducible methodological research in social sciences and official statistics](https://link.springer.com/article/10.1007/s11943-017-0214-8)
 - [A synthetic dataset primer for the biobehavioural sciences to promote reproducibility and hypothesis generation](https://elifesciences.org/articles/53275) - package [`synthpop`](https://github.com/dsquintana/synthpop-primer)
+- [Probabilistic AutoRegressive model](https://sdv.dev/SDV/user_guides/timeseries/par.html) to generate new synthetic data @[Github](https://github.com/sdv-dev/SDV/blob/master/sdv/timeseries/deepecho.py)
