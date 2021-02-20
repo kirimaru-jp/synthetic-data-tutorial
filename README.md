@@ -582,3 +582,6 @@ If you have any queries, comments or improvements about this tutorial please do 
 - [ONS methodology working paper series number 16 - Synthetic data pilot](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber16syntheticdatapilot) - Office of National Statistics, 2019.
 - [Wrap-up blog post](http://theodi.org) (not yet published) from our anonymisation project which talks about what we learned and other outputs we created.
 - We referred to the [UK Anonymisation Network's Decision Making Framework](https://ukanon.net/ukan-resources/ukan-decision-making-framework/) a lot during our work. It's pretty involved but it's excellent as a deep-dive resource on anonymisation.
+- The real promise of synthetic data - [Synthetic Data Vault](https://news.mit.edu/2020/real-promise-synthetic-data-1016)
+- [Synthetic data for open and reproducible methodological research in social sciences and official statistics](https://link.springer.com/article/10.1007/s11943-017-0214-8)
+- [A synthetic dataset primer for the biobehavioural sciences to promote reproducibility and hypothesis generation](https://elifesciences.org/articles/53275) - package [`synthpop`](https://github.com/dsquintana/synthpop-primer)
